@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MikkoHolfeld88
-- 👀 I’m interested in Machine Learning, Data Science, NLP and of course all that scalability cloud stuff :D
-- 🌱 I’m currently learning AWS, Multi modal multi objetive optimizations and re-insurance
-- 💞️ I’m looking to collaborate on fun projects with fun people that are willing to increase life quality with software
+- 👀 I’m interested in Data Science, Agentic Risk Management, Self Improving Agents and People Management :D
+- 🌱 I’m currently improving my DevOps skills and align risk Management, AI compliance and agentic ai
+- 💞️ I’m looking to collaborate on fun projects with fun people that are willing to increase life quality with software 
 - 📫 How to reach me? Mail me: mikko.holfeld@gmail.com
 
 <!---
